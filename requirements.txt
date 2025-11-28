@@ -1,0 +1,6 @@
+torch
+transformers
+gradio
+Pillow
+sentencepiece
+huggingface_hub[hf_xet]
